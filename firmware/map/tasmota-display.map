@@ -39277,7 +39277,7 @@ END GROUP
                 0x000000004028c747        0x9 .pio/build/tasmota-display/src/tasmota.ino.cpp.o
  .irom0.pstr.support_rtc.ino.115.434
                 0x000000004028c750       0x10 .pio/build/tasmota-display/src/tasmota.ino.cpp.o
- .irom0.pstr.support_features.ino.788.430
+ .irom0.pstr.support_features.ino.792.430
                 0x000000004028c760       0x4d .pio/build/tasmota-display/src/tasmota.ino.cpp.o
  .irom0.pstr.support_esptool.ino.98.429
                 0x000000004028c7ad       0x21 .pio/build/tasmota-display/src/tasmota.ino.cpp.o

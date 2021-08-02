@@ -41864,7 +41864,7 @@ END GROUP
  .irom0.pstr.support_rotary.ino.191.464
                 0x000000004029b06f       0x23 .pio/build/tasmota-sensors/src/tasmota.ino.cpp.o
                                           0x6 (size before relaxing)
- .irom0.pstr.support_features.ino.788.461
+ .irom0.pstr.support_features.ino.792.461
                 0x000000004029b06f       0x4d .pio/build/tasmota-sensors/src/tasmota.ino.cpp.o
  .irom0.pstr.support_esptool.ino.98.460
                 0x000000004029b0bc       0x21 .pio/build/tasmota-sensors/src/tasmota.ino.cpp.o

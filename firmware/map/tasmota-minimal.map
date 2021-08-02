@@ -27126,7 +27126,7 @@ END GROUP
                 0x0000000040259279        0x9 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
  .irom0.pstr.support_rtc.ino.115.425
                 0x0000000040259282       0x10 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
- .irom0.pstr.support_features.ino.788.421
+ .irom0.pstr.support_features.ino.792.421
                 0x0000000040259292       0x4d .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
  .irom0.pstr.support_esp.ino.95.419
                 0x00000000402592df        0xa .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
