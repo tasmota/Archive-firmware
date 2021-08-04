@@ -37804,9 +37804,9 @@ END GROUP
                 0x000000004028e8d7        0x9 .pio/build/tasmota-HE/src/tasmota.ino.cpp.o
  .irom0.pstr.support_rtc.ino.115.472
                 0x000000004028e8e0       0x10 .pio/build/tasmota-HE/src/tasmota.ino.cpp.o
- .irom0.pstr.support_rotary.ino.252.468
+ .irom0.pstr.support_rotary.ino.257.468
                 0x000000004028e8f0       0x23 .pio/build/tasmota-HE/src/tasmota.ino.cpp.o
- .irom0.pstr.support_rotary.ino.191.467
+ .irom0.pstr.support_rotary.ino.196.467
                 0x000000004028e913       0x23 .pio/build/tasmota-HE/src/tasmota.ino.cpp.o
                                           0x6 (size before relaxing)
  .irom0.pstr.support_features.ino.792.464
